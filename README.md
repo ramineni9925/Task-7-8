@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Task 7: Monitor System Resources Using Netdata</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #272822;
-      color: #f8f8f2;
-      padding: 10px;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 15px;
-    }
-    th, td {
-      border: 1px solid #ddd;
-      padding: 10px;
-      vertical-align: top;
-    }
-    th {
-      background-color: #34495e;
-      color: white;
-    }
-  </style>
+
 </head>
 <body>
 
@@ -147,8 +106,7 @@
     <li>Explored lightweight, real-time monitoring tools suitable for production and dev environments</li>
   </ul>
 
-  <h2>📸 Screenshot</h2>
-  <p><em>Attach your screenshot of the Netdata dashboard here.</em></p>
+
 
 </body>
 </html>
